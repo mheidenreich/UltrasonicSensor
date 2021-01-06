@@ -58,4 +58,5 @@ except KeyboardInterrupt:
 
 finally:
     reading = False
+    reader.join()
     sensor.close()
