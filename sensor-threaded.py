@@ -10,10 +10,7 @@
     https://youtu.be/JvQKZXCYMUM
 
     This example shows how to use the HC-SR04 sensor to provide a continuous
-    distance readout with Raspberry Pi.
-
-    This example shows how to use the LCD1602 I2C display and the HC-SR04 sensor
-    with Raspberry Pi using a multi-threaded approach.
+    distance readout with Raspberry Pi using a multi-threaded approach.
 
     THIS SOFTWARE AND LINKED VIDEO TOTORIAL ARE PROVIDED "AS IS" AND THE
     AUTHOR DISCLAIMS ALL WARRANTIES INCLUDING ALL IMPLIED WARRANTIES OF
