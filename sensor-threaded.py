@@ -36,8 +36,6 @@ def safe_exit(signum, frame):
     exit(1)
 
 def read_distance():
-    global message
-
     while reading:
         message = f"Distance: {sensor.value:1.2f} m"
         print(message)
